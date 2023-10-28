@@ -27,7 +27,7 @@ navBar.forEach(function (a) {
 
 // Testimonial Swiper js Start
 var swiper = new Swiper(".mySwiper", {
-  slidesPerView: 2,
+  slidesPerView: 1,
   spaceBetween: 30,
   autoplay: {
     delay: 3000
